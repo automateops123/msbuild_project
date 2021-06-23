@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="MSBuildSDKsPath">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
